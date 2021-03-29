@@ -1,0 +1,49 @@
+,Brand,Clothing,Cost,Dress,Skirt,Pants,Shirt,Swimsuit,Accessories,Category,Minimum_Cost,Maximum_Cost,Average_Cost
+0,M&S Collection,2 Pack High Waisted Leggings," From₹1,299.00-₹1,499.00",0,0,1,0,0,0,Pants,1299.0,1499.0,1399.0
+1,M&S Collection,Jersey Slim Fit Bootcut Trousers,"₹1,499.00",0,0,1,0,0,0,Pants,1499.0,1499.0,1499.0
+2,M&S Collection,Wide Fit Patent Block Heel Court Shoes,"₹3,999.00",0,0,0,0,0,1,Accessories,3999.0,3999.0,3999.0
+3,M&S Collection,Mia Slim Cropped Trousers,"₹1,999.00₹590.00",0,0,1,0,0,0,Pants,1999.0,590.0,1294.5
+4,M&S Collection,Scoop Neck Straight Fit Slub Vest Top,₹499.00₹140.00,0,0,0,1,0,0,Shirt,499.0,140.0,319.5
+5,M&S Collection,Pure Linen Square Neck Button Detail Blouse,"₹1,999.00",0,0,0,1,0,0,Shirt,1999.0,1999.0,1999.0
+6,GOODMOVE,Casual Backpack,"₹2,499.00",0,0,0,0,0,1,Accessories,2499.0,2499.0,2499.0
+7,M&S Collection,Jersey Straight Leg Trousers,"₹1,499.00",0,0,1,0,0,0,Pants,1499.0,1499.0,1499.0
+8,M&S Collection,Pure Linen Button Detailed Shirt," From₹590.00-₹1,999.00",0,0,0,1,0,0,Shirt,590.0,1999.0,1294.5
+9,Autograph,Printed Fit & Flare Midi Skirt,"₹5,499.00₹590.00",0,1,0,0,0,0,Skirt,5499.0,590.0,3044.5
+10,M&S Collection,Pure Linen Polka Dot Long Sleeve Shirt,"₹2,499.00",0,0,0,1,0,0,Shirt,2499.0,2499.0,2499.0
+11,M&S Collection,Crew Neck Relaxed Fit Long Sleeve Top,"₹1,799.00",0,0,0,1,0,0,Shirt,1799.0,1799.0,1799.0
+12,M&S Collection,Birds of Paradise High Leg Bikini Bottoms,"₹1,499.00₹440.00",0,0,1,0,0,0,Pants,1499.0,440.0,969.5
+13,M&S Collection,Pure Cotton Crew Neck T-Shirt,"₹1,499.00",0,0,0,1,0,0,Shirt,1499.0,1499.0,1499.0
+14,M&S Collection,Straight Leg Trousers,"₹2,999.00",0,0,1,0,0,0,Pants,2999.0,2999.0,2999.0
+15,M&S Collection,Jersey Slim Fit Flare Trousers,"₹1,499.00",0,0,1,0,0,0,Pants,1499.0,1499.0,1499.0
+16,M&S Collection,Cotton Rich Woven 3/4 Sleeve Kaftan,"₹1,999.00",0,0,0,0,0,1,Accessories,1999.0,1999.0,1999.0
+17,M&S Collection,Pure Cotton Straight Fit Long Sleeve Top,"₹1,499.00",0,0,0,1,0,0,Shirt,1499.0,1499.0,1499.0
+18,M&S Collection,Mia Slim Cotton Rich 7/8 Trousers,"₹1,999.00₹590.00",0,0,1,0,0,0,Pants,1999.0,590.0,1294.5
+19,M&S Collection,Animal Print Scarf,₹699.00,0,0,0,0,0,1,Accessories,699.0,699.0,699.0
+20,M&S Collection,Crew Neck Cardigan," From₹590.00-₹1,999.00",0,0,0,0,0,1,Accessories,590.0,1999.0,1294.5
+21,M&S Collection,Pure Cotton Regular Fit Vest Top,₹599.00,0,0,0,1,0,0,Shirt,599.0,599.0,599.0
+22,M&S Collection,Jersey Slim Fit Cargo Joggers," From₹740.00-₹2,999.00",0,0,1,0,0,0,Pants,740.0,2999.0,1869.5
+23,M&S Collection,Pure Cotton Striped Oversized Shirt,"₹2,499.00",0,0,0,1,0,0,Shirt,2499.0,2499.0,2499.0
+24,M&S Collection,Floral High Neck Fitted Half Sleeve Top,"₹1,799.00",0,0,0,1,0,0,Shirt,1799.0,1799.0,1799.0
+25,Autograph,Pure Cashmere Crew Neck Cardigan,"₹9,999.00₹2,990.00",0,0,0,0,0,1,Accessories,9999.0,2990.0,6494.5
+26,M&S Collection,Angular Round Cat Eye Sunglasses,"₹1,299.00",0,0,0,0,0,1,Accessories,1299.0,1299.0,1299.0
+27,GOODMOVE,Go Move High Waisted 7/8 Gym Leggings,"₹2,999.00",0,0,1,0,0,0,Pants,2999.0,2999.0,2999.0
+28,M&S Collection,V-Neck Longline Short Sleeve Tunic,"₹2,999.00",0,0,0,1,0,0,Shirt,2999.0,2999.0,2999.0
+29,M&S Collection,Small Messenger Bag,"₹2,999.00",0,0,0,0,0,1,Accessories,2999.0,2999.0,2999.0
+30,GOODMOVE,Performance Short Sleeve Top,"₹1,999.00",0,0,0,1,0,0,Shirt,1999.0,1999.0,1999.0
+31,M&S Collection,Crew Neck Relaxed Short Sleeve T-Shirt,₹799.00,0,0,0,1,0,0,Shirt,799.0,799.0,799.0
+32,M&S Collection,Rimless Aviator Sunglasses,"₹1,299.00",0,0,0,0,0,1,Accessories,1299.0,1299.0,1299.0
+33,M&S Collection,3/4 Sleeve Shirt,"₹1,499.00",0,0,0,1,0,0,Shirt,1499.0,1499.0,1499.0
+34,Per Una,Floral High Neck Pintuck Midaxi Smock Dress,"₹6,499.00",1,0,0,0,0,0,Dress,6499.0,6499.0,6499.0
+35,M&S Collection,Floral Print Fit & Flare Midi Skirt,"₹4,999.00₹590.00",0,1,0,0,0,0,Skirt,4999.0,590.0,2794.5
+36,M&S Collection,Jersey Slim Leg Trousers,"₹1,499.00",0,0,1,0,0,0,Pants,1499.0,1499.0,1499.0
+37,M&S Collection,Square Sunglasses,"₹1,299.00",0,0,0,0,0,1,Accessories,1299.0,1299.0,1299.0
+38,M&S Collection,High Waisted Jeggings,"₹2,499.00",0,0,1,0,0,0,Pants,2499.0,2499.0,2499.0
+39,M&S Collection,Cotton Rich Stretch Straight Leg Trousers,"₹1,999.00₹590.00",0,0,1,0,0,0,Pants,1999.0,590.0,1294.5
+40,M&S Collection,High Neck Fitted Half Sleeve Top,"₹1,799.00",0,0,0,1,0,0,Shirt,1799.0,1799.0,1799.0
+41,M&S Collection,Linen Striped V-Neck Button Detail Tunic,"₹2,999.00",0,0,0,1,0,0,Shirt,2999.0,2999.0,2999.0
+42,M&S Collection,Tencel™ Tapered Ankle Grazer Trousers,"₹3,999.00",0,0,1,0,0,0,Pants,3999.0,3999.0,3999.0
+43,M&S Collection,Pure Cotton Striped Crew Neck T-Shirt,"₹1,499.00",0,0,0,1,0,0,Shirt,1499.0,1499.0,1499.0
+44,M&S Collection,Belted Jumpsuit,"₹5,999.00",0,0,0,0,0,1,Accessories,5999.0,5999.0,5999.0
+45,M&S Collection,Crepe Tapered 7/8 Trousers,"₹3,499.00",0,0,1,0,0,0,Pants,3499.0,3499.0,3499.0
+46,M&S Collection,Printed Leaf Print Scarf,₹699.00,0,0,0,0,0,1,Accessories,699.0,699.0,699.0
+47,M&S Collection,Soft Touch Straight Fit Long Sleeve Top,"₹1,799.00",0,0,0,1,0,0,Shirt,1799.0,1799.0,1799.0
