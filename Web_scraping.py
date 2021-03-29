@@ -31,6 +31,23 @@ df['Swimsuit']=df['Clothing'].apply(lambda x:1 if 'swimsuit' in x.lower() else 0
 df['Accessories']=df['Clothing'].apply(lambda x: 0 if (('dress' in x.lower())or ('trousers' in x.lower()) or ('jeans' in x.lower()) or ('jeggings' in x.lower()) 
 or ('leggings' in x.lower()) or('joggers' in x.lower()) or ('bottoms' in x.lower()) or ('jumper' in x.lower()) or ('skirt' in x.lower()) or ('shirt' in x.lower())
 or ('top' in x.lower()) or ('blouse' in x.lower()) or ('swimsuit' in x.lower()) or ('tunic' in x.lower())) else 1)
+conditions = [
+    (df['Dress'] == 1),
+    (df['Skirt']==1),
+    (df['Pants'] == 1),
+    (df['Shirt']==1),
+    (df['Swimsuit'] == 1),
+    (df['Accessories']==1)
+    ]
+
+# create a list of the values we want to assign for each condition
+values = ['Dress', 'Skirt', 'Pants', 'Shirt','Swimsuit','Accessories']
+
+# create a new column and use np.select to assign values to it using our lists as arguments
+df['Category'] = np.select(conditions, values)
+
+# display updated DataFrame
+df.head()
 df['Marked_Cost']=df['Cost'].copy()
 df['Marked_Cost']=df['Marked_Cost'].apply(lambda x:x.replace('₹','-').replace('From','').replace('-','-'))
 df['Marked_Cost']=df['Marked_Cost'].apply(lambda x:x.replace('--','-'))
@@ -42,4 +59,4 @@ df['Minimum_Cost']=df['Minimum_Cost'].apply(lambda x:x.replace(',',''))
 df['Minimum_Cost'] = pd.to_numeric(df['Minimum_Cost'])
 df['Maximum_Cost'] = pd.to_numeric(df['Maximum_Cost'])
 df['Average_Cost']=(df['Minimum_Cost']+df['Maximum_Cost'])/2
-s=df.to_csv('/content/drive/My Drive/f2.csv')
+s=df.to_csv('/content/drive/My Drive/final_M&S.csv')
